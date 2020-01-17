@@ -1,1 +1,25 @@
 A blackjack similator using python3 
+
+
+Black Jack version 1.00
+- Simplified rules (count points only, no Black Jack)
+- Only one player vs one dealer
+- Player can only choose Hit or Stand
+- No betting
+- Only one deck is played in a single game
+
+Black Jack version 1.50
+** Formal rules of Black Jack
+** 1 - 4 players vs dealer
+** Player can now choose Hit, Stand or Split (if possible)
+- No betting
+** Change of drawing system (from 1/13 to 1/52 for closer to reality), can now adjust the number of decks in a game
+** Can continue playing after a game
+
+Black Jack version 2.00
+** Formal rules of Black Jack
+** 1 - 4 players vs dealer
+** Player can now choose Hit, Stand or Split (if possible)
+** Change of splitting method, now it will show "Player X Hand X" instead of changing player number
+** Change of drawing system (from 1/13 to 1/52 for closer to reality), can now adjust the number of decks in a game
+** Can continue playing after a game
